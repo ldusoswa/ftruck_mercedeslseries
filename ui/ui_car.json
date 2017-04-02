@@ -1,0 +1,36 @@
+{
+
+	"name": "Mercedes-Benz L-series - Formula Truck",
+	"brand": "Mercedes-Benz",
+	"description": "The Mercedes-Benz Trucks L-series is a conventional layout, cab-after-engine truck manufactured from 1959 to 1995. In Germany it is most commonly referred to as the Kurzhauber (for \"short bonnet\").[1] The engine intruded into the cabin underneath the windshield, all in the name of making a shorter truck to meet the strict period German regulations on overall length.</br>
+
+",
+	"tags": ["rwd", "truck", "race", "diesel", "Formula Truck", "turbo", "shifter"],  
+	"class": "race",
+
+	"specs":
+	{
+		"bhp": "+1000bhp",
+		"torque": "3378Nm",
+		"weight": "4930kg",
+		"topspeed": "+240km/h",
+		"acceleration": "-",
+		"pwratio": "-"
+	},
+		"torqueCurve": [
+		 ["0","600"],
+		 ["250","600"],
+		 ["750","1800"],
+		 ["1250","2340"],
+		 ["1750","3000"],
+		 ["2250","3380"],
+		 ["2750","2990"],
+		 ["3250","2630"],
+		 ["3750","2020"],
+		 ["4250","1330"]
+        ],
+        "powerCurve": [
+		 ["0","0"]
+		]
+
+}

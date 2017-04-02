@@ -1,0 +1,42 @@
+{431fb779-148d-4b16-aaab-52eeb2c65640} event:/cars/ftruck_mercedeslseries/backfire_ext
+{487d1143-2f50-437d-8ac1-877876207dd7} event:/cars/ftruck_mercedeslseries/backfire_int
+{806844fc-8742-49c4-a2af-b50000eb2dc1} event:/cars/ftruck_mercedeslseries/bodywork
+{9f92288d-81e5-4063-a841-165a049f02f9} event:/cars/ftruck_mercedeslseries/door
+{5fdbe5d7-17e3-4465-8eb3-8907d258c70a} event:/cars/ftruck_mercedeslseries/engine_ext
+{73fa9e62-a44a-42a6-869b-f966dcd1fa01} event:/cars/ftruck_mercedeslseries/engine_int
+{79068e60-2e68-4071-9b16-109ebe9b3393} event:/cars/ftruck_mercedeslseries/gear_ext
+{a182b160-6ad9-4e07-a29f-bb356d849622} event:/cars/ftruck_mercedeslseries/gear_grind
+{1d030c53-1d77-44e8-8586-b6fe5a5dc5dd} event:/cars/ftruck_mercedeslseries/gear_int
+{bc7d03b7-8bd9-47bb-9393-4f4f372dc1d5} event:/cars/ftruck_mercedeslseries/horn
+{08efac47-cc16-4a10-b73e-fed5a2bf9320} event:/cars/ftruck_mercedeslseries/limiter
+{38362039-2075-4eb9-91e5-6200f9f1d4e3} event:/cars/ftruck_mercedeslseries/skid_ext
+{ea46972e-8594-4a54-976f-01688943c0d4} event:/cars/ftruck_mercedeslseries/skid_int
+{ea3b8f58-f2d6-4d02-bf92-85461b3d3888} event:/cars/ftruck_mercedeslseries/tractioncontrol_ext
+{fcff67ea-f037-4a55-b5d4-a4dc6e337dbb} event:/cars/ftruck_mercedeslseries/tractioncontrol_int
+{089793a6-e7a3-4262-806d-4ff0281406f8} event:/cars/ftruck_mercedeslseries/transmission
+{c76e2923-cf98-425c-9c4e-22a20ac0891f} event:/cars/ftruck_mercedeslseries/turbo
+{cfb442dc-daca-4705-bec1-caf7dd4bfabf} event:/cars/ftruck_mercedeslseries/wheel
+{19c17954-1109-4225-b81e-fff635faa85a} event:/cars/ftruck_mercedeslseries/wind
+{08f6ba78-f576-4f9f-a232-47657d5fec19} bus:/
+{378981f8-2b16-4f5d-8911-bd454df05e6b} bus:/CARS
+{a5019ec0-6d9b-4e4b-b999-17d8383f1d84} bus:/common
+{449b1cf9-dc7f-46a7-87db-dc7fa76bcf85} bus:/EXTERIOR sounds
+{19c2aa16-2752-46c7-ad80-57f852200f35} bus:/EXTERIOR sounds/Skid EXT
+{ee0e6430-ba19-4c05-a201-d9c00f8fd1f7} bus:/Wind and Wheels
+{61e13a9c-887e-4b94-8d11-12ba197b6c22} bus:/Wind and Wheels/wheels (closed cars)
+{759fd77f-a073-4974-b3e5-21f706fa01b9} bus:/Wind and Wheels/wheels (open wheels)
+{4ce682d5-0cc5-4845-a6b5-eb8b073e2959} bus:/Wind and Wheels/wind (closed cars)
+{bb7998e4-68b3-45ea-9308-e015dde4ef11} bus:/Wind and Wheels/wind (open wheels)
+{4578a1b8-25a7-427b-a8d0-7fabacb9a10e} vca:/backfire EXT
+{3fe51a61-de17-4b62-9d20-1526a20d3aa2} vca:/backfire INT
+{a657fc05-b25c-4111-8dd1-c0dadbb5205e} vca:/Engine EXT
+{1207f2b6-7aae-4912-8b2b-ec4d1471a201} vca:/Engine INT
+{ceff60c4-5f22-4a80-af70-28cc1ca91c32} vca:/gearint_H
+{eed6d155-e23d-4589-a2fb-2d5cc4165ba6} vca:/gearint_paddles
+{08cd60e5-84a9-4953-813f-bdbe54f1e710} vca:/gearint_stick
+{c8749f27-6fd7-4c67-8641-32c93aa8d3d8} vca:/limiter
+{317feda0-c8e9-4f54-845d-ce0491ea1be4} vca:/surfaces
+{e18b58af-e0c3-4595-80af-aabf0908701d} vca:/transmission
+{ba82f681-7ba4-44c9-a8a7-e7dc95d453d1} snapshot:/Exterior Reverb
+{4b92e6ce-e701-48dd-8dc2-cb371c15dbfe} bank:/ftruck_mercedeslseries
+{47dcf37a-6a8d-4ef6-9f82-2e0398fa69f9} bank:/common
